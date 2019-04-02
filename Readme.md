@@ -44,6 +44,7 @@ $ cd progo-bird
 $ go get ./...
 $ go run *.go
 ```
+![](game.gif)
 
 #### Successful games
 The games that proved to be successful under this weird implementation are the following, and all of them require to modify  **parameters.go** as follows. 
