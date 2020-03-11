@@ -90,7 +90,7 @@ PLATFORM_MARGIN_V  = 10
 PLATFORM_TB_MARGIN = 0
 ```
 
-Just a little explanation about the variables (constants really):
+Just a little explanation about the variables (constants actually):
 - **TIME_AGENT_FACTOR** is the factor that indicates how time is discretized.
 - **START_AGENT_FACTOR** is multiplied with **TIME_AGENT_FACTOR** to simulate the fall when game starts.
 - **PLATFORM_MARGIN_H** AND **PLATFORM_MARGIN_V** are horizontal and vertical margins for the platforms, so the agent doesn't calculate the moves too close to them. 
